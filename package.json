@@ -1,0 +1,10 @@
+{
+  "name": "invis-bot-qr",
+  "version": "1.0.0",
+  "main": "telegram.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "qrcode": "^1.5.1"
+  }
+}
